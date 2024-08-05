@@ -1,0 +1,1850 @@
+[
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\animate.min.css",
+        "lastmod": "2023-08-23T08:07:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\bootstrap.min.css",
+        "lastmod": "2023-05-03T08:33:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\fontawesome.css",
+        "lastmod": "2023-06-26T08:27:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\magnific-popup.min.css",
+        "lastmod": "2023-08-23T08:09:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\odometer.min.css",
+        "lastmod": "2023-08-23T08:09:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\style.css",
+        "lastmod": "2024-05-01T11:18:45+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\style.css.map",
+        "lastmod": "2024-05-01T11:18:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\css\\swiper-bundle.min.css",
+        "lastmod": "2023-09-06T10:09:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\Axiforma-Bold.ttf",
+        "lastmod": "2024-02-23T19:42:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\Axiforma-Medium.ttf",
+        "lastmod": "2024-02-23T19:42:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\Axiforma-Regular.ttf",
+        "lastmod": "2024-02-23T19:42:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\Axiforma-SemiBold.ttf",
+        "lastmod": "2024-02-23T19:42:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\fa-brands-400.ttf",
+        "lastmod": "2023-03-23T09:16:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\fa-regular-400.ttf",
+        "lastmod": "2023-03-23T09:16:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\fonts\\fa-solid-900.ttf",
+        "lastmod": "2023-03-23T09:16:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_1.webp",
+        "lastmod": "2024-04-30T21:10:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_10.webp",
+        "lastmod": "2024-04-26T18:55:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_11.webp",
+        "lastmod": "2024-04-26T18:55:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_2.webp",
+        "lastmod": "2024-04-30T21:10:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_3.webp",
+        "lastmod": "2024-04-30T21:10:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_4.webp",
+        "lastmod": "2024-04-30T21:10:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_5.webp",
+        "lastmod": "2024-04-30T21:10:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_6.webp",
+        "lastmod": "2024-04-30T21:10:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_7.webp",
+        "lastmod": "2024-04-30T21:10:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_8.webp",
+        "lastmod": "2024-04-30T21:10:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\about\\about_image_9.webp",
+        "lastmod": "2024-04-30T21:10:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_1.webp",
+        "lastmod": "2024-04-30T21:11:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_10.webp",
+        "lastmod": "2024-04-30T21:11:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_11.webp",
+        "lastmod": "2024-04-30T21:11:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_2.webp",
+        "lastmod": "2024-04-30T21:11:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_3.webp",
+        "lastmod": "2024-04-30T21:11:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_4.webp",
+        "lastmod": "2024-04-30T21:11:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_5.webp",
+        "lastmod": "2024-04-30T21:11:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_6.webp",
+        "lastmod": "2024-04-30T21:11:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_7.webp",
+        "lastmod": "2024-04-30T21:11:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_8.webp",
+        "lastmod": "2024-04-30T21:11:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\avatar\\avatar_9.webp",
+        "lastmod": "2024-04-30T21:11:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\backgrounds\\bg_image_1.webp",
+        "lastmod": "2024-04-30T21:12:06+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\backgrounds\\bg_image_2.webp",
+        "lastmod": "2024-03-27T07:15:06+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\backgrounds\\bg_image_3.webp",
+        "lastmod": "2024-04-19T06:26:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\backgrounds\\bg_image_4.webp",
+        "lastmod": "2024-04-20T00:40:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\backgrounds\\bg_image_5.webp",
+        "lastmod": "2024-04-30T21:12:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_1.webp",
+        "lastmod": "2024-04-30T21:13:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_10.webp",
+        "lastmod": "2024-04-30T21:13:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_11.webp",
+        "lastmod": "2024-04-30T21:13:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_12.webp",
+        "lastmod": "2024-04-30T21:13:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_13.webp",
+        "lastmod": "2024-04-30T21:13:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_14.webp",
+        "lastmod": "2024-04-30T21:13:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_15.webp",
+        "lastmod": "2024-04-30T21:13:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_16.webp",
+        "lastmod": "2024-04-30T21:13:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_2.webp",
+        "lastmod": "2024-04-30T21:13:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_3.webp",
+        "lastmod": "2024-04-30T21:13:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_4.webp",
+        "lastmod": "2024-04-30T21:13:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_5.webp",
+        "lastmod": "2024-04-30T21:13:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_6.webp",
+        "lastmod": "2024-04-30T21:13:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_7.webp",
+        "lastmod": "2024-04-30T21:13:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_8.webp",
+        "lastmod": "2024-04-30T21:13:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\blog\\blog_post_image_9.webp",
+        "lastmod": "2024-04-30T21:13:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\case_image_1.webp",
+        "lastmod": "2024-04-30T21:14:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\case_image_2.webp",
+        "lastmod": "2024-04-30T21:14:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\case_image_3.webp",
+        "lastmod": "2024-04-30T21:14:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\case_image_4.webp",
+        "lastmod": "2024-04-30T21:14:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\icon_angular.svg",
+        "lastmod": "2024-03-24T12:14:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\icon_elephent.svg",
+        "lastmod": "2024-03-24T12:15:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\icon_netcore.svg",
+        "lastmod": "2024-03-24T12:15:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\icon_python.svg",
+        "lastmod": "2024-03-24T12:16:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\case\\vuejs.svg",
+        "lastmod": "2024-03-24T12:16:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_1.webp",
+        "lastmod": "2024-02-25T20:06:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_10.webp",
+        "lastmod": "2024-03-29T06:03:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_2.webp",
+        "lastmod": "2024-02-25T20:06:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_3.webp",
+        "lastmod": "2024-02-25T20:06:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_4.webp",
+        "lastmod": "2024-02-25T20:07:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_5.webp",
+        "lastmod": "2024-02-25T20:07:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_6.webp",
+        "lastmod": "2024-02-25T20:07:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_7.webp",
+        "lastmod": "2024-02-25T20:07:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_8.webp",
+        "lastmod": "2024-03-27T00:36:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\clients\\client_logo_9.webp",
+        "lastmod": "2024-03-29T06:03:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\flag\\tinified.zip",
+        "lastmod": "2024-03-27T05:47:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\flag\\ukraine_flag.webp",
+        "lastmod": "2024-03-26T23:47:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\business_consulting_hero_image_1.webp",
+        "lastmod": "2024-04-30T21:15:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\business_consulting_hero_image_2.webp",
+        "lastmod": "2024-04-18T07:30:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\business_consulting_hero_section_bg.jpg",
+        "lastmod": "2024-04-30T20:33:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\circle_engine_1.webp",
+        "lastmod": "2024-04-30T09:51:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\circle_engine_2.webp",
+        "lastmod": "2024-04-30T09:51:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\circle_engine_3.webp",
+        "lastmod": "2024-04-30T09:51:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\circle_engine_4.png",
+        "lastmod": "2024-05-01T02:45:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\circle_engine_4.webp",
+        "lastmod": "2024-04-30T09:40:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\it_solution_hero_image_1.webp",
+        "lastmod": "2024-04-30T21:15:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\it_solution_hero_image_2.webp",
+        "lastmod": "2024-04-30T21:15:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\logo_google.svg",
+        "lastmod": "2024-04-17T12:33:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\shape_image_1.webp",
+        "lastmod": "2024-04-27T04:42:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\shape_image_2.webp",
+        "lastmod": "2024-04-27T04:42:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\shape_image_3.webp",
+        "lastmod": "2024-04-27T04:45:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\hero\\shape_image_4.webp",
+        "lastmod": "2024-04-27T04:45:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\best_offer.svg.svg",
+        "lastmod": "2024-03-16T11:52:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_analisis_2.svg",
+        "lastmod": "2024-04-19T12:49:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_analysis.svg",
+        "lastmod": "2024-03-16T00:16:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_bookmark.svg",
+        "lastmod": "2024-03-19T10:55:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_box.svg",
+        "lastmod": "2024-03-12T12:07:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_bug.svg",
+        "lastmod": "2024-03-23T12:30:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_building.svg",
+        "lastmod": "2024-03-14T07:59:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_bulb.svg",
+        "lastmod": "2024-04-19T10:56:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_bulb_2.svg",
+        "lastmod": "2024-04-19T12:50:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_c.svg",
+        "lastmod": "2024-03-26T11:09:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_c_plus.svg",
+        "lastmod": "2024-03-26T05:10:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_calendar.svg",
+        "lastmod": "2024-03-08T00:54:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_calendar_2.svg",
+        "lastmod": "2024-03-21T04:26:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_calling.svg",
+        "lastmod": "2024-03-10T10:59:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_calling_2.svg",
+        "lastmod": "2024-03-21T04:27:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_chart.svg",
+        "lastmod": "2024-03-29T10:22:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_chart_2.svg",
+        "lastmod": "2024-04-19T12:49:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_chat.svg",
+        "lastmod": "2024-03-19T10:47:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_check.svg",
+        "lastmod": "2024-02-26T08:54:02+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_check_2.svg",
+        "lastmod": "2024-03-12T12:02:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_check_3.svg",
+        "lastmod": "2024-03-15T03:42:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_clock.svg",
+        "lastmod": "2024-03-12T08:02:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_code.svg",
+        "lastmod": "2024-03-23T08:36:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_dart_board.svg",
+        "lastmod": "2024-02-26T08:53:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_dart_board_2.svg",
+        "lastmod": "2024-03-12T08:05:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_doc.svg",
+        "lastmod": "2024-03-16T00:16:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_dollar.svg",
+        "lastmod": "2024-03-04T08:46:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_dollar_2.svg",
+        "lastmod": "2024-03-29T10:21:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_eye.svg",
+        "lastmod": "2024-03-19T10:48:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_facebook.svg",
+        "lastmod": "2024-03-07T06:41:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_g2.svg",
+        "lastmod": "2024-03-26T11:09:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_g318.svg",
+        "lastmod": "2024-03-26T05:09:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_global.svg",
+        "lastmod": "2024-04-28T08:07:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_hand_shake.svg",
+        "lastmod": "2024-04-19T10:58:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_head.svg",
+        "lastmod": "2024-02-26T08:54:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_headphone.svg",
+        "lastmod": "2024-03-04T08:46:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_headphone_2.svg",
+        "lastmod": "2024-03-16T00:16:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_instagram.svg",
+        "lastmod": "2024-03-07T06:41:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_java.svg",
+        "lastmod": "2024-03-26T05:09:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_javascript.svg",
+        "lastmod": "2024-03-26T05:08:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_laravel.svg",
+        "lastmod": "2024-03-26T05:10:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_layer.svg",
+        "lastmod": "2024-03-29T10:23:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_leaf.svg",
+        "lastmod": "2024-03-12T12:00:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_like.svg",
+        "lastmod": "2024-02-26T08:54:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_link.svg",
+        "lastmod": "2024-03-19T10:54:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_linkedin.svg",
+        "lastmod": "2024-03-07T06:41:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_mail.svg",
+        "lastmod": "2024-03-10T10:59:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_mail_2.svg",
+        "lastmod": "2024-03-10T12:43:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_mail_3.svg",
+        "lastmod": "2024-03-21T04:30:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_map_mark.svg",
+        "lastmod": "2024-03-10T11:02:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_map_mark_2.svg",
+        "lastmod": "2024-03-21T04:29:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_meeting.svg",
+        "lastmod": "2024-04-19T12:49:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_microscope.svg",
+        "lastmod": "2024-03-12T12:11:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_monitor.svg",
+        "lastmod": "2024-03-12T12:09:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_monitor_2.svg",
+        "lastmod": "2024-03-23T12:29:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_pen.svg",
+        "lastmod": "2024-03-29T10:24:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_phone.svg",
+        "lastmod": "2024-03-23T12:29:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_php.svg",
+        "lastmod": "2024-03-26T05:07:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_process.svg",
+        "lastmod": "2024-04-19T12:47:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_programming.svg",
+        "lastmod": "2024-03-23T12:30:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_programming_tree.svg",
+        "lastmod": "2024-03-23T12:29:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_python.svg",
+        "lastmod": "2024-03-26T10:23:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_quote.svg",
+        "lastmod": "2024-03-30T06:21:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_quote_2.svg",
+        "lastmod": "2024-04-20T01:22:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_react_js.svg",
+        "lastmod": "2024-03-26T05:10:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_receipt_add.svg",
+        "lastmod": "2024-03-12T12:08:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_ruby.svg",
+        "lastmod": "2024-03-26T05:10:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_search.svg",
+        "lastmod": "2024-03-17T10:05:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_speed_miter.svg",
+        "lastmod": "2024-04-19T12:50:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_stars_trustpilot.svg",
+        "lastmod": "2024-02-24T11:47:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_swift.svg",
+        "lastmod": "2024-03-26T09:56:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_tag.svg",
+        "lastmod": "2024-03-14T07:59:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_tag_2.svg",
+        "lastmod": "2024-03-29T10:22:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_target.svg",
+        "lastmod": "2024-03-12T08:06:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_twitter_x.svg",
+        "lastmod": "2024-03-07T06:41:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_typescript.svg",
+        "lastmod": "2024-03-26T05:08:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_user.svg",
+        "lastmod": "2024-03-19T10:45:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_user_2.svg",
+        "lastmod": "2024-03-29T10:22:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_user_3.svg",
+        "lastmod": "2024-04-17T13:01:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_user_check.svg",
+        "lastmod": "2024-03-04T08:46:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_user_rating.svg",
+        "lastmod": "2024-04-19T10:57:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_users.svg",
+        "lastmod": "2024-03-29T10:23:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_wallet.svg",
+        "lastmod": "2024-04-17T13:16:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\icons\\icon_wifi.svg",
+        "lastmod": "2024-03-29T10:20:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\itflow_page_thumbnail.webp",
+        "lastmod": "2024-04-04T22:38:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\itflow_page_thumbnail_2.webp",
+        "lastmod": "2024-04-04T22:38:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_details_image_1.webp",
+        "lastmod": "2024-04-30T21:15:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_1.webp",
+        "lastmod": "2024-04-30T21:15:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_10.webp",
+        "lastmod": "2024-04-30T21:15:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_11.webp",
+        "lastmod": "2024-04-30T21:15:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_2.webp",
+        "lastmod": "2024-04-30T21:15:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_3.webp",
+        "lastmod": "2024-04-30T21:15:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_4.webp",
+        "lastmod": "2024-04-30T21:15:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_5.webp",
+        "lastmod": "2024-04-30T21:15:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_6.webp",
+        "lastmod": "2024-04-30T21:15:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_7.webp",
+        "lastmod": "2024-04-30T21:15:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_8.webp",
+        "lastmod": "2024-04-30T21:15:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\portfolio\\portfolio_item_image_9.webp",
+        "lastmod": "2024-04-30T21:15:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_details_image_1.webp",
+        "lastmod": "2024-04-30T23:17:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_details_image_2.webp",
+        "lastmod": "2024-04-30T23:17:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_details_image_3.webp",
+        "lastmod": "2024-04-30T23:16:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_details_image_4.webp",
+        "lastmod": "2024-04-30T23:16:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_details_image_5.webp",
+        "lastmod": "2024-04-30T23:17:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_1.webp",
+        "lastmod": "2024-03-04T04:20:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_2.webp",
+        "lastmod": "2024-03-04T04:20:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_3.webp",
+        "lastmod": "2024-04-30T23:17:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_4.webp",
+        "lastmod": "2024-03-04T04:20:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_5.webp",
+        "lastmod": "2024-03-04T04:20:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_6.webp",
+        "lastmod": "2024-03-04T04:20:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_7.webp",
+        "lastmod": "2024-03-04T04:20:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\services\\service_image_8.webp",
+        "lastmod": "2024-04-30T23:17:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\bg_pattern_1.svg",
+        "lastmod": "2024-02-26T01:31:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\bg_pattern_2.svg",
+        "lastmod": "2024-03-06T09:37:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\bg_pattern_3.svg",
+        "lastmod": "2024-03-11T12:04:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\bg_pattern_4.svg",
+        "lastmod": "2024-03-11T12:21:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\it_solution_hero_bg_1.svg",
+        "lastmod": "2024-02-24T10:17:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_angle_1.webp",
+        "lastmod": "2024-03-27T06:44:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_angle_2.webp",
+        "lastmod": "2024-03-27T06:44:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_angle_3.webp",
+        "lastmod": "2024-03-27T06:44:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_angle_4.webp",
+        "lastmod": "2024-03-27T06:44:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_arrow_left.svg",
+        "lastmod": "2024-03-17T08:24:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_arrow_right.svg",
+        "lastmod": "2024-03-17T08:25:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_bg_1.webp",
+        "lastmod": "2024-03-24T04:33:02+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line.webp",
+        "lastmod": "2024-04-28T01:49:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_2.svg",
+        "lastmod": "2024-03-27T09:50:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_3.svg",
+        "lastmod": "2024-03-27T09:50:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_4.svg",
+        "lastmod": "2024-03-27T09:50:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_5.svg",
+        "lastmod": "2024-03-27T09:58:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_6.svg",
+        "lastmod": "2024-03-27T09:59:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_line_7.svg",
+        "lastmod": "2024-03-28T11:49:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_polygon.webp",
+        "lastmod": "2024-04-06T01:06:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_1.svg",
+        "lastmod": "2024-03-27T11:09:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_2.svg",
+        "lastmod": "2024-03-27T11:08:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_3.svg",
+        "lastmod": "2024-03-27T13:06:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_4.svg",
+        "lastmod": "2024-03-28T06:35:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_5.svg",
+        "lastmod": "2024-03-28T12:16:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_space_6.svg",
+        "lastmod": "2024-03-29T06:17:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\shapes\\shape_title_under_line.svg",
+        "lastmod": "2024-03-22T11:37:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\site_logo\\favourite_icon.svg",
+        "lastmod": "2024-02-23T23:42:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\site_logo\\favourite_icon_2.svg",
+        "lastmod": "2024-03-21T12:22:08+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\site_logo\\site_logo.svg",
+        "lastmod": "2024-02-24T01:20:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\site_logo\\site_logo_2.svg",
+        "lastmod": "2024-03-21T12:23:02+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\site_logo\\site_logo_3.svg",
+        "lastmod": "2024-03-22T10:33:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_cartoon_image.webp",
+        "lastmod": "2024-04-30T23:18:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_map.webp",
+        "lastmod": "2024-03-11T07:00:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_member_image_1.webp",
+        "lastmod": "2024-04-30T23:18:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_member_image_2.webp",
+        "lastmod": "2024-04-30T23:18:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_member_image_3.webp",
+        "lastmod": "2024-04-30T23:18:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_member_image_4.webp",
+        "lastmod": "2024-04-30T23:18:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\images\\team\\team_member_image_5.webp",
+        "lastmod": "2024-04-30T23:18:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\appear.min.js",
+        "lastmod": "2023-08-23T08:01:02+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\bootstrap-dropdown-ml-hack.min.js",
+        "lastmod": "2023-08-23T08:01:44+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\bootstrap.min.js",
+        "lastmod": "2023-05-03T08:36:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\circularProgressBar.min.js",
+        "lastmod": "2024-02-25T10:08:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\countdown.js",
+        "lastmod": "2021-07-20T02:22:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\jquery.min.js",
+        "lastmod": "2023-05-03T08:34:40+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\magnific-popup.min.js",
+        "lastmod": "2017-06-04T15:11:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\main.js",
+        "lastmod": "2024-04-30T23:02:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\odometer.min.js",
+        "lastmod": "2023-05-03T11:46:14+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\parallax-scroll.js",
+        "lastmod": "2024-04-27T01:22:36+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\parallaxie.js",
+        "lastmod": "2024-03-10T10:23:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\popper.min.js",
+        "lastmod": "2023-05-03T08:33:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\swiper-bundle.min.js",
+        "lastmod": "2023-09-06T10:09:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\js\\wow.min.js",
+        "lastmod": "2024-04-29T11:35:26+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\_fonts.scss",
+        "lastmod": "2024-02-23T22:45:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\_reset.scss",
+        "lastmod": "2024-05-01T06:46:05+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\_responsive.scss",
+        "lastmod": "2024-05-01T03:10:17+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\_variable.scss",
+        "lastmod": "2024-04-20T01:22:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_blog.scss",
+        "lastmod": "2024-05-01T06:30:15+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_calltoaction.scss",
+        "lastmod": "2024-04-20T10:29:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_case.scss",
+        "lastmod": "2024-05-01T02:57:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_clientlogo.scss",
+        "lastmod": "2024-05-01T06:00:27+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_hero.scss",
+        "lastmod": "2024-05-01T02:52:21+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_policy.scss",
+        "lastmod": "2024-04-01T12:49:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_portfolio.scss",
+        "lastmod": "2024-04-01T12:49:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_review.scss",
+        "lastmod": "2024-04-29T12:51:52+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_service.scss",
+        "lastmod": "2024-05-01T06:10:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\components\\_team.scss",
+        "lastmod": "2024-04-01T12:49:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_accordion.scss",
+        "lastmod": "2024-05-01T06:26:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_animation.scss",
+        "lastmod": "2024-05-01T05:26:04+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_authorbox.scss",
+        "lastmod": "2024-04-01T12:43:54+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_backtotop.scss",
+        "lastmod": "2024-04-01T12:42:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_button.scss",
+        "lastmod": "2024-04-20T10:27:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_carousel.scss",
+        "lastmod": "2024-04-01T12:44:06+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_form.scss",
+        "lastmod": "2024-04-01T12:44:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_funfact.scss",
+        "lastmod": "2024-04-17T13:18:48+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_iconblock.scss",
+        "lastmod": "2024-04-01T12:52:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_iconbox.scss",
+        "lastmod": "2024-04-01T12:52:50+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_list.scss",
+        "lastmod": "2024-04-01T12:43:12+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_pagination.scss",
+        "lastmod": "2024-04-01T12:46:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_rating.scss",
+        "lastmod": "2024-04-01T12:46:06+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_social.scss",
+        "lastmod": "2024-04-01T12:45:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_space.scss",
+        "lastmod": "2024-04-01T12:42:56+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_tab.scss",
+        "lastmod": "2024-04-01T12:53:00+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_typography.scss",
+        "lastmod": "2024-04-01T12:43:42+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\elements\\_video.scss",
+        "lastmod": "2024-04-01T12:44:38+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\style.scss",
+        "lastmod": "2024-04-28T10:57:24+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\template-parts\\_footer.scss",
+        "lastmod": "2024-05-01T11:18:45+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\template-parts\\_header.scss",
+        "lastmod": "2024-05-01T10:45:01+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\template-parts\\_pagebanner.scss",
+        "lastmod": "2024-04-01T12:47:10+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\template-parts\\_sidebar.scss",
+        "lastmod": "2024-04-01T12:47:20+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\templates\\_about.scss",
+        "lastmod": "2024-05-01T06:45:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\templates\\_contact.scss",
+        "lastmod": "2024-05-01T06:34:18+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\templates\\_details.scss",
+        "lastmod": "2024-04-27T11:47:58+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\templates\\_home.scss",
+        "lastmod": "2024-05-01T06:27:16+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\assets\\scss\\templates\\_pricing.scss",
+        "lastmod": "2024-04-01T12:50:28+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\favicon.ico",
+        "lastmod": "2024-02-13T02:23:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\index.php",
+        "lastmod": "2024-02-13T02:23:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\json\\cancer.json",
+        "lastmod": "2024-08-05T05:47:30+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\json\\car-accident.json",
+        "lastmod": "2024-08-05T05:50:46+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\json\\lawyer.json",
+        "lastmod": "2024-08-05T05:48:32+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\json\\mesothelioma.json",
+        "lastmod": "2024-08-05T05:41:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\json\\sitemapxml.json",
+        "lastmod": "2024-08-05T06:51:22+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    },
+    {
+        "loc": "http:\/\/autocreatecontent.test\/\\robots.txt",
+        "lastmod": "2024-02-13T02:23:34+00:00",
+        "changefreq": "daily",
+        "priority": "0.5"
+    }
+]
