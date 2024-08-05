@@ -10,6 +10,7 @@
     <title>-</title>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4264401469889345"
      crossorigin="anonymous"></script>
+     <meta name="google-site-verification" content="QLuqbt8zlXQx0Z_ubHm4_92gfatzO_bAkFHjmJ7f2Fg" />
     <link rel="shortcut icon" href="{{ asset('assets/images/site_logo/favourite_icon_2.svg') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">

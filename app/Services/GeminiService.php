@@ -13,31 +13,10 @@ class GeminiService
 
     public function __construct()
     {
-        $proxy = $this->getProxy();
-        $this->client = new Client([
-            'proxy' => $proxy,
-            // 'proxy' => 'https://your-proxy-server:port', // Jika menggunakan proxy HTTPS
-        ]);
+
+        $this->client = new Client();
         $this->apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
         $this->apiKey = env('GEMINI_API_KEY'); // Tambahkan API Key di .env
-    }
-
-    protected function getProxy()
-    {
-        $proxyUrl = 'http://pubproxy.com/api/proxy';
-        try {
-            $response = file_get_contents($proxyUrl);
-            $data = json_decode($response, true);
-
-            // Ambil proxy dari hasil API
-            $proxyData = $data['data'][0];
-            $proxy = 'http://' . $proxyData['ipPort']; // Sesuaikan jika proxy menggunakan HTTPS
-
-            return $proxy;
-        } catch (\Exception $e) {
-            // Log error atau handle jika terjadi masalah
-            return null;
-        }
     }
 
     public function generateContent($data)
