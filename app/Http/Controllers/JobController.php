@@ -53,6 +53,6 @@ class JobController extends ContentController
         $this->generate($query);
         $data->status = false;
         $data->save();
-        return false;
+        return response()->json(['message' => 'done !']);
     }
 }
