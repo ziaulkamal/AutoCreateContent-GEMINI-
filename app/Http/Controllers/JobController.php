@@ -49,6 +49,7 @@ class JobController extends ContentController
         $data = Job::where('status', true)
             ->orderBy('id', 'asc')
             ->first();
+        $query = $data->keyword;
 
         $this->generate($query);
         $data->status = false;
