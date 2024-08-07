@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use App\Models\Job;
+use App\Http\Controllers\ContentController;
 use App\Jobs\ProcessJob;
+use App\Models\Job;
+use Illuminate\Http\Request;
 
-class JobController extends Controller
+class JobController extends ContentController
 {
     /**
      * Handle the incoming request.
@@ -42,5 +43,16 @@ class JobController extends Controller
         // ProcessJob::dispatch($job);
 
         return response()->json(['message' => 'Job created and dispatched.']);
+    }
+
+    public function renderKeywords() {
+        $data = Job::where('status', true)
+            ->orderBy('id', 'asc')
+            ->first();
+
+        $this->generate($query);
+        $data->status = false;
+        $data->save();
+        return false;
     }
 }

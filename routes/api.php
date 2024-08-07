@@ -23,3 +23,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 Route::post('/job', [JobController::class, 'store']);
+Route::get('/random', [JobController::class, 'renderKeywords']);
