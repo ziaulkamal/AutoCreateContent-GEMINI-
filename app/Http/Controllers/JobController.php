@@ -32,14 +32,14 @@ class JobController extends Controller
         }
 
         // Simpan data ke database jika keyword belum ada
-        $job = Job::create([
+        $job = Job::firstOrCreate([
             'keyword' => $request->input('keyword'),
             'url' => $request->input('url'),
             'status' => $request->input('status', false),
         ]);
 
         // Dispatch job untuk proses otomatisasi
-        ProcessJob::dispatch($job);
+        // ProcessJob::dispatch($job);
 
         return response()->json(['message' => 'Job created and dispatched.']);
     }
